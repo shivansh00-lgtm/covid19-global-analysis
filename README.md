@@ -89,6 +89,15 @@ Through this project, I practiced:
 ![COVID-19 Global Analysis Dashboard](dashboard/covid-dashboard.png)
 
 ---
+---
+
+## 📊 Tableau Dashboard
+
+Explore the interactive Tableau dashboard:
+
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/COVID-19GlobalAnalysis-SpreadHealthcareCapacityandPolicyResponse/COVID-19SpreadHealthcareCapacityandPolicyResponse_?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+The dashboard presents global COVID-19 trends, country comparisons, healthcare capacity, and policy-related outcomes.
 
 ## 🚀 Future Improvements
 
