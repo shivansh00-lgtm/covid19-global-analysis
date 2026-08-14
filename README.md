@@ -10,7 +10,7 @@ The goal of this project was to practice the fundamentals of **data analysis, SQ
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project were to:
 
@@ -25,7 +25,7 @@ The main objectives of this project were to:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **SQL** – Data analysis and querying
 * **Tableau** – Data visualization and dashboard creation
@@ -34,23 +34,23 @@ The main objectives of this project were to:
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 I created a Tableau dashboard containing four main visualizations.
 
-### 🌍 1. Top Countries
+###  1. Top Countries
 
 This visualization compares countries based on their total COVID-19 cases, while also showing deaths per million.
 
 It helps provide an overview of how strongly different countries were affected by COVID-19.
 
-### 🏥 2. Healthcare vs Outcome
+###  2. Healthcare vs Outcome
 
 This scatter plot compares **GDP per capita** with **hospital beds per thousand people** across countries.
 
 The purpose is to explore differences in economic conditions and healthcare capacity and how they relate to COVID-19 outcomes.
 
-### 📈 3. Case Trends
+###  3. Case Trends
 
 This visualization shows changes in **new COVID-19 cases over time** for selected countries, including:
 
@@ -61,7 +61,7 @@ This visualization shows changes in **new COVID-19 cases over time** for selecte
 
 It helps identify major increases and decreases in COVID-19 cases throughout the pandemic.
 
-### 🏛️ 4. Policies vs Outcome
+###  4. Policies vs Outcome
 
 This visualization explores the relationship between policy-related factors and **deaths per million** across countries.
 
@@ -69,7 +69,7 @@ It provides an opportunity to compare countries and explore differences in COVID
 
 ---
 
-## 💡 What I Learned
+##  What I Learned
 
 Through this project, I practiced:
 
@@ -84,14 +84,14 @@ Through this project, I practiced:
 
 ---
 
-## 📈 Tableau Dashboard
+## Tableau Dashboard
 
 ![COVID-19 Global Analysis Dashboard](dashboard/covid-dashboard.png)
 
 ---
 ---
 
-## 📊 Tableau Dashboard
+##  Tableau Dashboard
 
 Explore the interactive Tableau dashboard:
 
@@ -101,24 +101,24 @@ The dashboard presents global COVID-19 trends, country comparisons, healthcare c
 
  ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 Based on the analysis and Tableau dashboard, several patterns were observed:
 
-- 🌍 **COVID-19 cases varied significantly across countries**, with some countries recording substantially higher total case counts than others.
+-  **COVID-19 cases varied significantly across countries**, with some countries recording substantially higher total case counts than others.
 
-- ⚰️ **Deaths per million differed considerably between countries**, showing that the impact of the pandemic was not uniform across regions.
+-  **Deaths per million differed considerably between countries**, showing that the impact of the pandemic was not uniform across regions.
 
-- 🏥 **Healthcare capacity showed variation across countries.** The comparison of GDP per capita and hospital beds provided a view of differences in healthcare resources.
+-  **Healthcare capacity showed variation across countries.** The comparison of GDP per capita and hospital beds provided a view of differences in healthcare resources.
 
-- 📈 **COVID-19 case trends changed significantly over time**, with major spikes visible during different phases of the pandemic.
+-  **COVID-19 case trends changed significantly over time**, with major spikes visible during different phases of the pandemic.
 
-- 🏛️ **Policy responses and COVID-19 outcomes varied across countries**, highlighting differences in how countries responded to the pandemic.
+-  **Policy responses and COVID-19 outcomes varied across countries**, highlighting differences in how countries responded to the pandemic.
 
-- 📊 **Data visualization helped identify patterns and differences** that would be more difficult to understand from raw data alone.
+-  **Data visualization helped identify patterns and differences** that would be more difficult to understand from raw data alone.
 
 - 
-## 🚀 Future Improvements
+##  Future Improvements
 
 As I continue developing my data analytics skills, I plan to improve this project by:
 
@@ -130,7 +130,7 @@ As I continue developing my data analytics skills, I plan to improve this projec
 
 ---
 
-## 📚 Learning Journey
+##  Learning Journey
 
 This project is part of my journey toward becoming a **Data Analyst**.
 
@@ -140,7 +140,7 @@ I am currently building my skills in:
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 **Shivansh Jaiswal**
 
@@ -150,4 +150,4 @@ Currently developing practical data analytics skills through projects and the **
 
 ---
 
-⭐ *This is my first data analytics portfolio project, and I look forward to building more projects as I continue learning.*
+ *This is my first data analytics portfolio project, and I look forward to building more projects as I continue learning.*
