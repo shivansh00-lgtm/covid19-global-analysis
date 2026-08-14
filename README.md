@@ -99,6 +99,25 @@ Explore the interactive Tableau dashboard:
 
 The dashboard presents global COVID-19 trends, country comparisons, healthcare capacity, and policy-related outcomes.
 
+ ---
+
+## 🔍 Key Insights
+
+Based on the analysis and Tableau dashboard, several patterns were observed:
+
+- 🌍 **COVID-19 cases varied significantly across countries**, with some countries recording substantially higher total case counts than others.
+
+- ⚰️ **Deaths per million differed considerably between countries**, showing that the impact of the pandemic was not uniform across regions.
+
+- 🏥 **Healthcare capacity showed variation across countries.** The comparison of GDP per capita and hospital beds provided a view of differences in healthcare resources.
+
+- 📈 **COVID-19 case trends changed significantly over time**, with major spikes visible during different phases of the pandemic.
+
+- 🏛️ **Policy responses and COVID-19 outcomes varied across countries**, highlighting differences in how countries responded to the pandemic.
+
+- 📊 **Data visualization helped identify patterns and differences** that would be more difficult to understand from raw data alone.
+
+- 
 ## 🚀 Future Improvements
 
 As I continue developing my data analytics skills, I plan to improve this project by:
